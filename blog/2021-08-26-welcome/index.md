@@ -18,7 +18,7 @@ The blog post date can be extracted from filenames, such as:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](https://img.alicdn.com/imgextra/i4/O1CN01GZ8Gm51DHyo7asI5m_!!6000000000192-2-tps-160-160.png)
+![Docusaurus Plushie](https://cdn.nlark.com/yuque/0/2023/png/1851796/1676793988355-a6e84597-dbe3-40ed-9428-617c5c2568b0.png#averageHue=%23222221&clientId=uaf93da57-9438-4&from=paste&height=605&id=uf84d9944&name=image.png&originHeight=1210&originWidth=1854&originalType=binary&ratio=2&rotation=0&showTitle=false&size=432901&status=done&style=none&taskId=u9c4986c2-d6e1-4c6b-b7b0-36364d16539&title=&width=927)
 
 The blog supports tags as well!
 
