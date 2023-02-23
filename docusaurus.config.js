@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/kevin.ico',
 
   // Set the production url of your site here
-  url: 'https://ssp0xd7.github.io',
+  url: 'https://www.dinosaurdoc.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
